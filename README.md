@@ -14,7 +14,7 @@ This test project will be evaluated for its architecture, design patterns, code 
 
 An example database structure and sample data is provided in `sql/init.sql` and an example query is provided below.
 
-Upon completion, provide the client-side instructions necessary to query the API and return the intended result. The instructions you provide will be used to test
+Upon completion, provide the link to your forked GitHub repository and client-side instructions necessary to query the API and return the intended result. The instructions you provide will be used to test
 that the web service works and functions as intended.
 
 
