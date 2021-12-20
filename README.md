@@ -8,7 +8,7 @@ Please fork this repository before beginning.
 
 ### Spec
 
-Use Python or Go to build a basic service that exposes a geographical search API. The API should accept 4 values (xmin, ymin, xmax, ymax) defining a bounding box, query a PostgreSQL database, and return a location name that matches one or more points within the bounds. Deploy the service as one or more Docker containers to AWS with Terraform or CloudFormation.
+Use Python or Go to build a basic service that exposes a geographical search API. The API should accept 4 values (xmin, ymin, xmax, ymax) defining a bounding box, query a PostgreSQL database, and return a location name that matches one or more points within the bounds. Deploy the service as one or more Docker containers to AWS with Terraform or CloudFormation using the container orchestration framework of your choice.
 
 This test project will be evaluated for its architecture, design patterns, code structure, organization, and general practices.
 
